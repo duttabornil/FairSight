@@ -1,0 +1,501 @@
+id,age,gender,race,education,experience_years,department,interview_score,actual_hired,predicted_hired,prediction_confidence
+1,39,Female,White,Bachelor's,4,Engineering,93,0,1,0.53
+2,60,Male,White,High School,6,Sales,76,1,0,0.51
+3,43,Female,Black,Bachelor's,6,Finance,56,1,0,0.8
+4,56,Female,Black,High School,12,Engineering,85,1,0,0.68
+5,36,Male,White,Master's,2,Marketing,56,1,0,0.59
+6,26,Male,Black,Bachelor's,5,Sales,96,1,1,0.95
+7,42,Female,White,Master's,1,Marketing,52,0,1,0.95
+8,35,Female,Black,Master's,12,HR,59,1,0,0.64
+9,47,Female,Asian,Bachelor's,4,Sales,81,1,1,0.81
+10,26,Female,White,Bachelor's,19,HR,83,1,0,0.84
+11,39,Male,Asian,Master's,10,Engineering,68,1,0,0.93
+12,33,Male,White,Bachelor's,3,Finance,90,1,1,0.59
+13,22,Female,Hispanic,Bachelor's,15,Engineering,57,0,0,0.66
+14,27,Male,Asian,High School,15,Engineering,98,1,0,0.96
+15,60,Male,White,Bachelor's,6,Sales,98,1,1,0.99
+16,55,Female,White,Bachelor's,7,Marketing,54,1,1,0.62
+17,36,Male,Black,High School,1,Finance,54,0,0,0.77
+18,58,Female,Asian,Bachelor's,15,HR,62,1,1,0.71
+19,28,Female,White,High School,10,Engineering,65,1,1,0.6
+20,26,Male,Asian,Bachelor's,17,Engineering,53,0,1,0.55
+21,48,Female,White,Bachelor's,6,HR,53,1,0,0.95
+22,57,Female,White,Master's,15,Marketing,62,1,1,0.77
+23,59,Female,White,Bachelor's,16,Marketing,53,0,1,0.8
+24,29,Female,White,PhD,18,Marketing,87,1,1,0.79
+25,35,Male,Hispanic,Master's,10,Marketing,66,1,1,0.66
+26,51,Female,White,Bachelor's,18,Engineering,54,0,1,0.68
+27,40,Male,White,Bachelor's,17,Finance,89,0,1,0.83
+28,28,Female,Hispanic,PhD,4,Finance,57,0,1,0.65
+29,38,Male,White,Bachelor's,8,Engineering,55,0,1,0.67
+30,32,Male,Hispanic,Master's,17,HR,85,1,0,0.94
+31,59,Male,Asian,Bachelor's,13,Marketing,52,1,0,0.92
+32,37,Female,White,Master's,11,Sales,76,0,0,0.62
+33,33,Male,Asian,Master's,0,Marketing,97,0,1,0.83
+34,32,Female,White,Master's,3,HR,52,0,0,0.73
+35,36,Male,Asian,Bachelor's,6,HR,71,1,0,0.68
+36,56,Male,Black,Bachelor's,0,Engineering,66,1,1,0.56
+37,42,Male,Black,Bachelor's,16,Engineering,74,0,1,0.72
+38,34,Male,Asian,Bachelor's,2,Finance,89,1,0,0.65
+39,47,Male,White,Master's,17,Marketing,62,1,1,0.94
+40,57,Female,White,Master's,9,Finance,63,1,0,0.73
+41,52,Male,White,Master's,5,Engineering,68,1,1,0.9
+42,36,Female,Black,Master's,4,Engineering,52,1,0,0.54
+43,34,Male,Black,Master's,12,HR,75,1,1,0.87
+44,49,Female,White,Bachelor's,16,HR,53,0,1,0.57
+45,57,Male,White,Bachelor's,14,Sales,96,0,0,0.72
+46,50,Male,Asian,Bachelor's,7,Finance,99,0,1,0.72
+47,43,Female,White,Bachelor's,17,Engineering,58,1,1,0.61
+48,51,Male,White,Bachelor's,6,HR,74,0,0,0.92
+49,22,Female,White,PhD,9,HR,76,1,0,0.94
+50,53,Male,White,High School,10,HR,96,1,1,0.81
+51,58,Male,White,Master's,2,HR,58,0,1,0.67
+52,46,Male,White,Bachelor's,13,Finance,55,1,1,0.97
+53,24,Male,White,Master's,7,Marketing,51,1,1,0.56
+54,38,Female,White,Master's,5,Sales,88,0,0,0.59
+55,41,Male,White,Bachelor's,12,HR,95,1,1,0.63
+56,60,Female,White,Master's,18,Engineering,72,1,1,0.82
+57,53,Male,White,High School,11,HR,95,1,1,0.82
+58,52,Female,Hispanic,Bachelor's,18,Finance,70,0,1,0.93
+59,46,Male,White,Bachelor's,15,Finance,61,1,1,0.64
+60,57,Female,Asian,High School,6,Engineering,65,0,0,0.84
+61,23,Female,White,High School,7,HR,94,1,1,0.78
+62,57,Male,Hispanic,Bachelor's,14,Finance,69,1,1,0.57
+63,33,Male,Asian,Bachelor's,15,Finance,96,1,1,0.98
+64,45,Female,White,Bachelor's,0,Sales,58,1,0,0.84
+65,53,Male,Asian,High School,0,Sales,68,1,1,0.53
+66,26,Female,White,Bachelor's,2,Sales,90,0,0,0.97
+67,57,Male,White,Master's,19,Sales,100,1,1,0.95
+68,49,Male,White,Bachelor's,19,Engineering,89,0,0,0.81
+69,37,Male,White,Bachelor's,2,Marketing,50,1,1,0.53
+70,51,Male,White,High School,7,Finance,100,0,0,0.6
+71,31,Male,White,PhD,4,Engineering,53,1,0,0.78
+72,41,Male,White,Master's,8,Sales,84,1,1,0.72
+73,27,Male,White,Bachelor's,18,Sales,51,0,1,0.53
+74,50,Female,White,PhD,5,Sales,77,0,1,0.68
+75,32,Male,Black,Bachelor's,15,Finance,92,0,1,0.73
+76,47,Male,White,Master's,0,Sales,79,1,1,0.87
+77,35,Female,Asian,Bachelor's,4,Finance,78,0,1,0.81
+78,41,Female,Black,Bachelor's,17,HR,55,1,1,0.96
+79,40,Female,White,Bachelor's,8,HR,80,0,0,0.69
+80,30,Female,White,Master's,8,HR,71,0,0,0.65
+81,53,Male,White,Master's,14,Sales,80,1,1,0.73
+82,37,Male,White,Bachelor's,7,HR,52,1,0,0.69
+83,31,Female,Asian,Bachelor's,1,Marketing,82,0,1,0.92
+84,22,Male,Hispanic,Master's,13,Marketing,54,1,1,0.84
+85,56,Female,Asian,Bachelor's,10,HR,84,1,0,0.95
+86,49,Female,Black,PhD,20,Engineering,78,1,1,0.67
+87,49,Male,White,High School,16,HR,86,1,1,0.8
+88,53,Male,Black,PhD,4,Marketing,79,0,0,0.94
+89,56,Male,White,Bachelor's,14,Finance,87,1,1,0.73
+90,52,Male,Hispanic,High School,12,Sales,72,0,1,0.98
+91,58,Female,White,Master's,1,Sales,97,1,1,0.89
+92,34,Female,White,Bachelor's,4,Engineering,90,1,1,0.79
+93,40,Female,White,Bachelor's,13,Marketing,62,1,0,0.76
+94,38,Female,Asian,PhD,15,Finance,97,0,1,0.55
+95,47,Female,White,PhD,17,Finance,55,0,0,0.73
+96,59,Female,Black,Bachelor's,20,Finance,56,0,0,0.96
+97,26,Male,Black,Bachelor's,14,Finance,91,1,0,0.66
+98,56,Male,White,High School,14,Finance,92,0,1,0.79
+99,28,Female,Asian,Master's,19,HR,67,1,1,0.97
+100,45,Female,White,Bachelor's,20,Finance,53,1,1,0.92
+101,60,Male,Black,PhD,1,Finance,65,0,1,0.91
+102,36,Female,White,Bachelor's,4,Sales,50,1,0,0.77
+103,23,Female,White,High School,11,Marketing,87,1,1,0.87
+104,52,Male,Black,Bachelor's,11,Sales,87,1,0,0.53
+105,55,Female,Asian,Bachelor's,20,Engineering,53,0,0,0.56
+106,27,Female,White,Bachelor's,4,Engineering,58,1,0,0.67
+107,51,Female,White,Bachelor's,13,Engineering,100,0,1,0.88
+108,50,Female,White,Master's,13,Finance,79,1,1,0.66
+109,52,Male,Hispanic,High School,2,Engineering,77,1,0,0.78
+110,43,Female,White,Master's,13,Finance,92,0,0,0.53
+111,28,Male,White,Bachelor's,6,Marketing,92,1,1,0.78
+112,36,Male,White,Master's,17,Sales,89,1,1,0.83
+113,39,Female,White,Master's,9,Finance,72,1,1,0.7
+114,23,Male,Black,High School,16,Marketing,74,1,1,0.86
+115,27,Female,White,Master's,4,Marketing,98,1,1,0.83
+116,39,Male,White,Bachelor's,16,Engineering,72,1,1,0.74
+117,47,Female,White,PhD,1,Engineering,63,1,1,0.63
+118,49,Male,White,Bachelor's,12,Sales,95,1,1,0.68
+119,49,Male,Black,High School,2,Finance,86,1,0,0.65
+120,32,Male,Hispanic,Master's,19,HR,94,0,0,0.63
+121,47,Female,White,Master's,10,Marketing,71,0,0,0.76
+122,44,Male,Asian,Master's,20,Marketing,65,1,1,0.58
+123,53,Female,White,Bachelor's,18,Sales,78,0,0,0.98
+124,42,Male,Hispanic,Bachelor's,2,HR,78,0,0,0.68
+125,24,Male,White,High School,9,Engineering,91,0,1,0.75
+126,24,Male,White,Bachelor's,18,Marketing,70,1,0,0.73
+127,27,Female,Asian,Bachelor's,5,Engineering,65,0,1,0.8
+128,46,Male,Hispanic,Bachelor's,10,Sales,53,0,1,0.56
+129,60,Female,White,Master's,10,Engineering,87,0,1,0.82
+130,27,Female,White,Bachelor's,12,Finance,58,0,0,0.84
+131,49,Male,Black,Bachelor's,0,Finance,69,1,0,0.74
+132,26,Male,White,Bachelor's,3,Sales,99,1,1,0.83
+133,60,Female,Black,Bachelor's,5,Marketing,94,0,1,0.72
+134,37,Male,Black,PhD,19,Finance,98,1,1,0.66
+135,34,Female,White,Bachelor's,18,HR,79,0,1,0.71
+136,60,Male,White,High School,8,Engineering,91,1,0,0.85
+137,27,Male,White,Master's,8,HR,82,1,0,0.62
+138,23,Male,White,Bachelor's,12,Sales,73,1,1,0.52
+139,43,Female,Asian,Master's,4,Engineering,68,0,0,0.87
+140,27,Male,Black,High School,6,Marketing,85,0,0,0.88
+141,37,Male,White,Bachelor's,19,HR,54,1,1,0.52
+142,31,Male,White,Bachelor's,0,Sales,72,1,0,0.55
+143,55,Female,White,Bachelor's,16,Sales,51,1,0,0.98
+144,26,Male,White,Bachelor's,20,Engineering,99,1,1,0.68
+145,51,Male,Black,PhD,15,Marketing,58,1,1,0.65
+146,24,Male,White,Bachelor's,9,Sales,75,0,1,0.87
+147,25,Male,White,Master's,10,Finance,57,0,1,0.72
+148,33,Female,White,Bachelor's,15,Finance,83,1,1,0.72
+149,40,Female,White,Bachelor's,2,Finance,92,1,0,0.59
+150,44,Male,White,Bachelor's,13,Finance,90,0,1,0.82
+151,32,Male,Asian,PhD,4,Sales,93,1,1,0.88
+152,58,Male,White,High School,4,HR,73,1,1,0.76
+153,37,Male,Black,PhD,0,Marketing,81,1,1,0.88
+154,40,Female,White,Master's,15,Marketing,57,1,1,0.85
+155,42,Female,Asian,Master's,2,Sales,84,1,1,0.85
+156,45,Female,White,Bachelor's,3,Marketing,100,1,1,0.78
+157,57,Male,Asian,High School,2,Engineering,69,1,0,0.71
+158,30,Male,White,PhD,20,Engineering,78,1,1,0.91
+159,30,Female,White,Bachelor's,1,Engineering,83,1,1,0.85
+160,40,Male,Hispanic,Master's,8,Marketing,90,0,0,0.8
+161,59,Male,Black,PhD,4,Marketing,92,0,1,0.95
+162,27,Male,Asian,High School,20,Sales,66,0,1,0.82
+163,40,Male,Black,Bachelor's,9,HR,65,0,1,0.55
+164,52,Male,White,Bachelor's,10,Sales,59,1,0,0.92
+165,45,Female,White,Bachelor's,3,Finance,65,1,1,0.56
+166,48,Male,White,Bachelor's,5,Finance,86,1,1,0.99
+167,53,Male,Asian,High School,12,Sales,79,0,1,0.53
+168,52,Male,Asian,Bachelor's,0,Engineering,77,1,1,0.7
+169,57,Male,White,Bachelor's,17,Finance,54,1,1,0.91
+170,30,Female,Black,PhD,12,Finance,100,0,1,0.58
+171,24,Female,White,High School,4,Finance,80,1,0,0.58
+172,47,Female,White,PhD,9,Sales,71,1,1,0.78
+173,43,Male,White,Master's,13,Sales,69,1,1,0.52
+174,59,Male,Hispanic,Bachelor's,1,Sales,80,1,0,0.91
+175,24,Male,Black,Bachelor's,3,Marketing,51,0,0,0.61
+176,52,Male,Black,Master's,1,Marketing,83,1,0,0.76
+177,56,Male,White,Bachelor's,11,Finance,89,1,1,0.65
+178,40,Female,Hispanic,Master's,15,Finance,80,1,0,0.64
+179,46,Male,Black,Master's,12,Finance,99,0,1,0.85
+180,38,Male,White,Master's,6,Marketing,84,1,1,0.56
+181,25,Female,White,Master's,16,Marketing,90,1,1,0.74
+182,57,Female,White,PhD,5,HR,91,0,1,0.61
+183,25,Female,White,PhD,2,Sales,64,1,0,0.95
+184,33,Male,Asian,PhD,1,HR,100,1,0,0.95
+185,58,Female,White,Bachelor's,10,Finance,79,0,0,0.96
+186,34,Female,White,Master's,10,Marketing,96,1,1,0.86
+187,34,Female,White,Bachelor's,20,HR,77,1,0,0.6
+188,37,Male,White,High School,12,Marketing,78,0,1,0.86
+189,37,Male,Black,High School,3,HR,69,1,0,0.94
+190,40,Female,Black,Bachelor's,7,Marketing,58,0,0,0.69
+191,56,Female,Hispanic,Master's,6,Marketing,93,0,1,0.72
+192,58,Female,White,High School,17,Sales,62,0,1,0.76
+193,59,Male,White,Bachelor's,16,HR,53,1,1,0.54
+194,23,Male,Asian,Bachelor's,0,Marketing,87,1,0,0.77
+195,52,Male,Asian,High School,13,Marketing,99,1,0,0.97
+196,50,Male,Asian,Master's,12,HR,55,0,1,0.82
+197,56,Male,White,Bachelor's,4,Marketing,50,0,1,0.86
+198,36,Male,White,Bachelor's,11,Marketing,67,1,1,0.53
+199,23,Female,Black,Bachelor's,2,Engineering,88,1,0,0.53
+200,36,Female,White,Bachelor's,1,Marketing,82,0,0,0.79
+201,42,Female,Asian,Bachelor's,4,Sales,64,0,0,0.79
+202,49,Female,White,Bachelor's,1,Finance,91,0,1,0.71
+203,56,Male,White,Bachelor's,7,Finance,95,1,1,0.71
+204,46,Male,White,Bachelor's,6,Finance,91,1,1,0.77
+205,46,Female,White,Master's,19,Engineering,54,1,0,0.78
+206,43,Male,Asian,Bachelor's,0,Marketing,62,0,0,0.74
+207,35,Male,Black,Bachelor's,7,Sales,70,0,0,0.68
+208,53,Male,White,Bachelor's,15,Finance,63,1,1,0.62
+209,59,Male,White,Bachelor's,13,Finance,59,1,0,0.63
+210,43,Female,Hispanic,Bachelor's,15,HR,79,1,1,0.86
+211,56,Male,Hispanic,PhD,1,Sales,52,0,0,0.53
+212,36,Male,White,High School,4,Engineering,63,1,0,0.83
+213,53,Female,White,High School,17,Sales,76,1,1,0.98
+214,49,Male,Asian,Master's,5,Engineering,56,0,0,0.63
+215,27,Male,Asian,Bachelor's,12,HR,86,1,1,0.91
+216,24,Male,Hispanic,High School,12,HR,85,1,0,0.55
+217,43,Female,Black,Bachelor's,3,Sales,52,1,0,0.78
+218,39,Male,Hispanic,Master's,18,Engineering,61,0,0,0.79
+219,47,Female,Black,PhD,9,Marketing,86,1,1,0.94
+220,30,Male,Asian,Master's,2,Sales,97,0,1,0.91
+221,60,Male,Asian,Bachelor's,10,Engineering,90,1,1,0.68
+222,59,Female,White,Master's,2,Sales,68,0,1,0.58
+223,46,Female,Black,Bachelor's,3,Engineering,50,0,0,0.56
+224,57,Male,White,Bachelor's,13,Engineering,51,1,0,0.89
+225,48,Female,White,Bachelor's,2,Sales,65,0,1,0.58
+226,26,Male,White,Bachelor's,8,HR,69,1,1,0.63
+227,34,Female,White,Bachelor's,4,Finance,50,0,0,0.9
+228,60,Male,White,High School,10,Sales,94,1,0,0.97
+229,53,Male,Black,PhD,7,Finance,74,1,1,0.96
+230,33,Male,Hispanic,Master's,17,Engineering,96,1,1,0.65
+231,48,Female,Asian,Master's,4,Finance,65,1,0,0.69
+232,59,Male,White,Bachelor's,16,HR,84,1,1,0.9
+233,28,Female,Hispanic,Master's,11,Marketing,91,0,0,0.82
+234,49,Female,White,High School,3,Finance,64,0,0,0.79
+235,59,Male,White,Master's,4,Finance,51,1,0,0.55
+236,44,Female,Black,Bachelor's,14,Marketing,83,0,0,0.84
+237,29,Male,White,High School,10,Engineering,93,0,1,0.76
+238,49,Female,White,PhD,7,HR,90,1,1,0.52
+239,59,Female,White,Bachelor's,0,Marketing,63,1,0,0.79
+240,45,Female,White,Bachelor's,14,Engineering,66,0,0,0.66
+241,29,Male,White,Bachelor's,14,Sales,61,0,1,0.8
+242,29,Male,White,Bachelor's,3,Marketing,73,1,1,0.58
+243,56,Male,White,Master's,20,Marketing,85,1,1,0.91
+244,22,Female,Asian,Bachelor's,6,HR,85,0,0,0.71
+245,27,Female,White,Bachelor's,7,Finance,52,1,1,0.73
+246,57,Female,Asian,Bachelor's,18,Engineering,67,0,1,0.9
+247,56,Male,Black,Bachelor's,13,Engineering,97,0,1,0.99
+248,27,Male,White,Bachelor's,3,Marketing,63,0,1,0.85
+249,30,Female,White,Master's,6,Engineering,86,1,1,0.67
+250,39,Female,White,PhD,16,Engineering,58,0,0,0.99
+251,30,Female,White,Bachelor's,10,Marketing,98,0,1,0.81
+252,26,Female,White,Bachelor's,2,HR,82,0,0,0.73
+253,27,Male,White,Master's,14,Finance,54,0,0,0.91
+254,40,Male,White,Bachelor's,18,Marketing,86,1,0,0.88
+255,51,Male,Black,High School,5,HR,79,1,1,0.84
+256,32,Male,Black,Master's,8,Engineering,91,1,0,0.82
+257,36,Male,Black,Bachelor's,2,Engineering,50,1,0,0.76
+258,43,Male,White,Master's,13,Marketing,80,1,1,0.56
+259,30,Male,Asian,Bachelor's,4,Marketing,54,0,0,0.72
+260,31,Female,Black,PhD,19,HR,63,1,0,0.79
+261,42,Male,Hispanic,Master's,7,Finance,91,1,1,0.8
+262,41,Female,Black,Bachelor's,19,Sales,62,0,1,0.94
+263,29,Female,White,Bachelor's,20,Sales,54,1,0,0.96
+264,58,Male,Asian,Bachelor's,17,Marketing,98,1,1,0.79
+265,25,Male,White,PhD,12,Sales,68,1,1,0.85
+266,31,Male,White,Bachelor's,9,Engineering,82,0,1,0.67
+267,26,Female,Asian,Bachelor's,13,Marketing,53,1,1,0.8
+268,33,Male,Black,High School,4,Engineering,60,0,0,0.9
+269,39,Male,White,Master's,3,Engineering,71,0,1,0.85
+270,51,Female,White,Bachelor's,1,HR,86,1,0,0.94
+271,54,Female,White,High School,0,Marketing,52,0,1,0.96
+272,48,Female,White,Bachelor's,7,HR,96,1,1,0.57
+273,36,Female,White,Master's,1,HR,54,0,0,0.66
+274,45,Male,White,Bachelor's,18,Finance,97,1,1,0.75
+275,56,Female,White,Master's,7,Marketing,50,0,0,0.82
+276,43,Female,White,High School,12,Finance,56,1,1,0.97
+277,39,Female,White,High School,7,Sales,76,0,0,0.55
+278,47,Male,White,High School,18,Engineering,77,1,1,0.92
+279,42,Female,White,Bachelor's,8,Marketing,54,0,0,0.56
+280,42,Male,White,Bachelor's,17,Finance,99,1,1,0.57
+281,60,Male,Black,High School,10,Marketing,55,0,0,0.53
+282,33,Male,Asian,High School,12,HR,85,0,1,0.9
+283,36,Male,White,High School,12,Finance,93,1,1,0.63
+284,26,Female,White,Bachelor's,20,HR,58,1,0,0.57
+285,58,Female,White,Bachelor's,12,HR,51,1,1,0.95
+286,31,Male,White,High School,19,Sales,65,1,0,0.74
+287,48,Male,White,Bachelor's,16,Marketing,90,0,1,0.69
+288,53,Female,White,Bachelor's,18,Sales,70,1,1,0.62
+289,25,Female,Asian,Master's,15,Sales,72,0,0,0.56
+290,25,Female,White,Master's,7,Sales,74,1,0,0.59
+291,44,Female,Asian,PhD,0,Finance,86,1,1,0.98
+292,41,Female,White,Bachelor's,1,Engineering,53,1,0,0.51
+293,30,Female,White,Bachelor's,5,Finance,53,1,0,0.88
+294,26,Female,Asian,Bachelor's,12,Sales,56,1,0,0.86
+295,53,Male,Black,Bachelor's,5,Sales,94,0,1,0.83
+296,40,Female,White,High School,0,Sales,75,0,0,0.6
+297,36,Male,Asian,Bachelor's,3,HR,59,1,1,0.66
+298,43,Female,Hispanic,Bachelor's,8,Marketing,65,0,0,0.86
+299,48,Male,White,PhD,13,HR,74,1,0,0.89
+300,36,Female,Asian,Bachelor's,2,Engineering,68,1,1,0.67
+301,26,Female,White,Bachelor's,2,Finance,88,0,0,0.72
+302,49,Female,Black,Bachelor's,3,Finance,63,0,0,0.95
+303,41,Male,Black,Bachelor's,1,HR,86,1,1,0.51
+304,60,Male,Asian,Bachelor's,3,Engineering,63,1,1,0.92
+305,53,Male,White,Master's,8,Engineering,91,1,0,0.69
+306,51,Male,White,Bachelor's,8,Sales,53,1,1,0.83
+307,59,Female,White,Bachelor's,1,HR,83,1,0,0.74
+308,27,Female,White,Bachelor's,1,Sales,86,0,1,0.81
+309,33,Male,Asian,PhD,5,Marketing,62,1,0,0.72
+310,60,Female,Black,Bachelor's,2,Engineering,74,0,0,0.76
+311,59,Female,White,Bachelor's,13,Engineering,76,1,0,0.97
+312,28,Male,White,Master's,17,Finance,76,1,1,0.74
+313,60,Male,White,Master's,12,Engineering,75,0,1,0.87
+314,23,Female,Asian,Bachelor's,9,Finance,67,0,0,0.98
+315,50,Male,White,Master's,10,Finance,96,1,1,0.61
+316,55,Female,Black,Master's,1,Sales,100,1,0,0.58
+317,23,Female,Asian,Bachelor's,6,Engineering,65,1,1,0.61
+318,47,Male,White,Bachelor's,3,Engineering,65,1,1,0.93
+319,32,Female,White,Master's,8,Engineering,68,1,0,0.88
+320,36,Male,White,Master's,8,HR,82,1,0,0.51
+321,60,Female,Black,Master's,7,Finance,88,0,0,0.82
+322,44,Male,White,Bachelor's,6,HR,69,1,1,0.56
+323,45,Male,Black,Bachelor's,19,Sales,68,1,1,0.98
+324,38,Female,Asian,Master's,20,Finance,62,1,0,0.9
+325,42,Female,Black,Master's,0,HR,68,1,0,0.53
+326,34,Female,White,Bachelor's,7,Sales,90,0,1,0.75
+327,57,Female,Asian,Bachelor's,3,HR,58,0,0,0.95
+328,27,Female,Asian,Bachelor's,7,Finance,76,0,1,0.65
+329,59,Female,White,Bachelor's,19,Engineering,80,0,0,0.69
+330,31,Male,White,High School,6,Finance,76,0,0,0.58
+331,27,Female,White,Bachelor's,20,Marketing,70,1,1,0.88
+332,53,Male,Asian,Master's,2,Marketing,89,1,1,0.74
+333,45,Male,White,PhD,10,Sales,62,1,0,0.62
+334,28,Female,White,Bachelor's,18,Finance,60,1,0,0.73
+335,49,Male,White,Master's,4,Finance,81,1,0,0.95
+336,30,Male,White,Bachelor's,0,Sales,82,1,0,0.53
+337,56,Female,White,Bachelor's,19,Engineering,92,1,1,0.57
+338,38,Male,White,Bachelor's,4,Marketing,94,1,1,0.56
+339,30,Male,Black,Bachelor's,3,Sales,96,0,0,0.75
+340,55,Female,Asian,PhD,11,HR,68,1,0,0.84
+341,22,Male,White,Master's,3,Sales,92,1,1,0.55
+342,36,Female,Hispanic,Bachelor's,9,Finance,79,1,0,0.92
+343,49,Male,Black,Master's,3,Engineering,50,0,1,0.68
+344,27,Male,Black,Bachelor's,10,Marketing,57,0,1,0.7
+345,32,Female,Asian,High School,1,Marketing,56,0,0,0.84
+346,44,Male,White,Bachelor's,4,HR,81,1,1,0.64
+347,55,Male,Black,Master's,18,Sales,64,0,1,0.76
+348,37,Female,White,Bachelor's,20,HR,59,0,0,0.54
+349,52,Female,White,Master's,5,Engineering,98,1,0,0.53
+350,47,Male,Black,Master's,2,HR,78,0,0,0.72
+351,23,Male,White,High School,13,Engineering,85,1,0,0.97
+352,57,Female,Asian,Bachelor's,14,Finance,73,0,0,0.67
+353,45,Female,White,Master's,3,Engineering,98,1,1,0.81
+354,45,Female,White,Master's,1,Marketing,81,1,0,0.56
+355,47,Female,White,Bachelor's,6,Finance,56,0,0,0.83
+356,51,Male,Asian,Master's,16,Marketing,81,1,1,0.72
+357,33,Female,Hispanic,Master's,5,Marketing,56,0,0,0.75
+358,37,Male,Hispanic,Bachelor's,10,Finance,78,0,0,0.94
+359,57,Male,Asian,Master's,17,Marketing,62,1,0,0.95
+360,33,Male,Black,Bachelor's,20,Finance,95,1,1,0.78
+361,56,Female,White,Bachelor's,13,Engineering,83,1,1,0.54
+362,40,Male,Asian,Master's,4,Engineering,94,0,1,0.68
+363,57,Male,Black,Master's,20,Sales,74,1,0,0.65
+364,46,Female,Hispanic,Bachelor's,10,Sales,53,1,0,0.88
+365,45,Female,Asian,Master's,17,Sales,62,0,1,0.6
+366,33,Female,White,Master's,3,HR,52,1,1,0.79
+367,31,Male,White,High School,10,Sales,53,0,0,0.65
+368,26,Female,White,Master's,10,Sales,64,0,0,0.59
+369,44,Male,White,Bachelor's,6,Finance,71,1,0,0.76
+370,22,Female,Asian,High School,11,HR,65,0,0,0.97
+371,29,Female,White,Bachelor's,17,Finance,51,0,1,0.9
+372,34,Male,White,Bachelor's,2,Engineering,60,0,1,0.81
+373,35,Male,Black,Master's,13,Engineering,63,1,0,0.88
+374,31,Female,Hispanic,High School,10,Engineering,55,1,0,0.54
+375,48,Female,Hispanic,Bachelor's,20,HR,77,1,1,0.51
+376,59,Female,White,High School,2,Finance,82,1,1,0.55
+377,47,Female,White,Master's,0,HR,60,0,0,0.89
+378,31,Male,Hispanic,Bachelor's,20,Finance,50,0,1,0.51
+379,27,Female,White,Bachelor's,11,Marketing,76,0,1,0.6
+380,29,Female,White,Bachelor's,18,Engineering,98,0,1,0.77
+381,28,Male,White,Bachelor's,18,HR,71,1,1,0.65
+382,53,Male,White,Bachelor's,19,Finance,94,1,1,0.66
+383,37,Male,White,Master's,20,HR,67,1,0,0.93
+384,41,Male,White,Bachelor's,3,Marketing,91,1,0,0.58
+385,26,Male,White,Master's,0,Sales,90,1,1,0.79
+386,56,Female,White,Master's,17,HR,91,0,1,0.88
+387,51,Female,White,Bachelor's,2,HR,73,0,0,0.9
+388,54,Female,White,High School,5,Marketing,86,0,0,0.86
+389,36,Male,White,Master's,7,Engineering,66,1,1,0.95
+390,51,Male,White,Master's,1,Finance,56,0,0,0.91
+391,33,Male,White,Bachelor's,12,Finance,87,1,1,0.69
+392,44,Female,White,Master's,11,HR,100,1,1,0.58
+393,39,Male,White,Bachelor's,5,Marketing,73,1,1,0.71
+394,52,Male,White,Bachelor's,18,Marketing,91,0,1,0.79
+395,24,Male,Black,Master's,4,Engineering,60,1,0,0.8
+396,40,Female,White,PhD,6,HR,88,0,1,0.91
+397,33,Female,Asian,Bachelor's,16,Finance,60,0,0,0.79
+398,28,Male,White,High School,16,Sales,93,1,1,0.74
+399,56,Female,White,Bachelor's,3,Engineering,80,0,1,0.51
+400,49,Female,Black,Bachelor's,11,Engineering,94,0,0,0.89
+401,58,Male,White,High School,4,Finance,80,0,1,0.8
+402,22,Male,White,Master's,0,Sales,83,1,0,0.84
+403,31,Male,White,Bachelor's,18,Finance,66,0,1,0.64
+404,48,Female,Asian,Bachelor's,17,HR,61,0,1,0.66
+405,30,Male,Black,Master's,3,Marketing,78,0,1,0.75
+406,25,Female,Asian,Bachelor's,20,Engineering,55,0,0,0.55
+407,60,Male,White,High School,12,HR,89,1,0,0.54
+408,53,Female,White,Bachelor's,6,Sales,68,1,1,0.85
+409,45,Female,Black,Bachelor's,0,Marketing,55,0,0,0.7
+410,26,Female,White,PhD,17,Finance,96,1,1,0.97
+411,34,Male,Black,Bachelor's,12,Sales,50,1,1,0.54
+412,54,Male,Hispanic,PhD,17,Sales,66,0,1,0.88
+413,51,Female,Hispanic,Master's,18,Engineering,80,1,0,0.99
+414,42,Female,White,Bachelor's,11,Sales,84,1,1,0.55
+415,26,Female,Asian,Bachelor's,5,HR,70,1,1,0.96
+416,53,Female,Hispanic,Master's,7,Marketing,66,1,1,0.81
+417,27,Male,White,Master's,15,Sales,50,0,1,0.74
+418,58,Female,White,Master's,15,Marketing,98,0,1,0.79
+419,52,Male,Asian,PhD,1,Sales,72,1,1,0.98
+420,22,Female,White,High School,6,HR,87,1,0,0.6
+421,43,Male,White,Bachelor's,15,HR,63,1,1,0.7
+422,58,Male,White,Master's,3,Finance,65,1,1,0.89
+423,22,Female,White,Bachelor's,15,Marketing,90,1,0,0.65
+424,47,Female,White,High School,5,Engineering,63,0,0,0.73
+425,57,Male,White,Bachelor's,8,Finance,51,1,0,0.8
+426,56,Female,Black,Bachelor's,9,Finance,70,0,0,0.94
+427,31,Male,White,Master's,20,Finance,76,1,0,0.54
+428,42,Male,White,Master's,8,Sales,91,1,1,0.96
+429,50,Female,White,Bachelor's,5,Engineering,58,0,0,0.85
+430,28,Male,White,High School,15,Sales,53,1,0,0.55
+431,46,Male,White,Bachelor's,7,Finance,78,1,0,0.52
+432,42,Female,Asian,Master's,14,Sales,67,1,0,0.77
+433,58,Female,White,Bachelor's,20,Sales,69,0,1,0.55
+434,31,Male,White,Bachelor's,0,Sales,98,0,1,0.51
+435,52,Female,Hispanic,Bachelor's,13,Finance,88,1,0,0.71
+436,32,Female,White,Master's,20,HR,74,1,0,0.76
+437,39,Female,Black,Bachelor's,17,Finance,76,1,1,0.56
+438,53,Male,White,Bachelor's,0,Marketing,53,0,0,0.65
+439,22,Male,White,Bachelor's,4,Engineering,81,1,0,0.75
+440,24,Male,Black,Bachelor's,4,Engineering,67,0,0,0.6
+441,22,Female,Asian,High School,7,HR,99,0,0,0.61
+442,35,Female,White,Bachelor's,9,Finance,60,0,0,0.76
+443,34,Male,Black,Bachelor's,1,Marketing,57,1,1,0.89
+444,37,Female,White,High School,1,Sales,100,0,1,0.88
+445,43,Male,White,PhD,20,Engineering,53,1,1,0.56
+446,57,Male,White,Master's,11,HR,96,1,1,0.57
+447,50,Female,White,Bachelor's,17,HR,62,0,1,0.73
+448,57,Female,White,Bachelor's,16,Marketing,78,1,1,0.51
+449,33,Female,White,Master's,19,Finance,99,1,1,0.97
+450,53,Female,White,Master's,4,Sales,68,1,1,0.76
+451,30,Male,Asian,Bachelor's,1,Marketing,56,1,0,0.91
+452,59,Female,White,Bachelor's,11,Marketing,88,0,0,0.82
+453,51,Female,Asian,Master's,1,Finance,85,0,0,0.89
+454,55,Male,Black,High School,2,Finance,54,0,1,0.86
+455,55,Male,White,Master's,18,Marketing,85,1,1,0.82
+456,49,Male,White,Master's,5,Marketing,85,1,1,0.99
+457,42,Male,White,Bachelor's,10,Finance,76,0,0,0.8
+458,57,Female,White,PhD,8,Finance,78,1,0,0.98
+459,41,Female,White,High School,7,Marketing,70,1,0,0.64
+460,58,Female,White,Bachelor's,1,HR,72,1,0,0.63
+461,58,Male,White,Bachelor's,6,Engineering,96,1,1,0.94
+462,28,Female,Asian,Bachelor's,9,Engineering,96,0,0,0.95
+463,49,Male,Asian,Bachelor's,3,Marketing,97,0,1,0.88
+464,24,Male,White,Bachelor's,18,Marketing,70,1,1,0.86
+465,60,Male,White,Bachelor's,2,Marketing,77,1,1,0.55
+466,47,Female,White,Bachelor's,12,Sales,77,0,1,0.78
+467,34,Male,Black,Bachelor's,16,Marketing,65,1,1,0.95
+468,49,Male,Black,Bachelor's,6,Finance,72,0,0,0.98
+469,50,Female,Hispanic,Bachelor's,14,Engineering,64,1,0,0.92
+470,31,Male,White,Master's,9,Engineering,71,1,1,0.52
+471,35,Male,White,Bachelor's,8,Sales,80,1,1,0.83
+472,55,Male,Hispanic,High School,5,Engineering,68,1,1,0.73
+473,39,Female,White,Master's,11,Engineering,51,1,1,0.98
+474,42,Male,Black,Bachelor's,19,Sales,55,1,0,0.95
+475,55,Male,White,Bachelor's,15,HR,97,1,1,0.81
+476,54,Male,Hispanic,Bachelor's,1,Finance,74,0,1,0.78
+477,47,Male,White,Master's,2,HR,83,0,1,0.62
+478,41,Male,White,PhD,10,HR,84,1,1,0.84
+479,55,Male,White,PhD,13,Marketing,91,0,1,0.78
+480,42,Female,White,Master's,4,Engineering,98,1,0,0.66
+481,39,Female,Asian,Bachelor's,6,Engineering,58,1,0,0.64
+482,36,Female,White,Bachelor's,0,Finance,55,0,0,0.8
+483,46,Female,White,Bachelor's,4,Marketing,62,1,0,0.95
+484,34,Female,White,Master's,2,Marketing,78,0,1,0.73
+485,24,Male,White,Bachelor's,12,Finance,75,1,1,0.76
+486,55,Female,Asian,High School,14,Engineering,65,0,0,0.78
+487,25,Male,Black,Bachelor's,14,HR,69,0,1,0.65
+488,31,Female,Black,Bachelor's,20,HR,55,0,0,0.96
+489,48,Female,White,Bachelor's,0,Marketing,79,0,1,0.73
+490,32,Male,Black,Master's,3,Engineering,57,0,1,0.85
+491,32,Female,Hispanic,Bachelor's,12,Engineering,99,1,0,0.92
+492,25,Male,White,Bachelor's,9,HR,68,1,1,0.61
+493,51,Female,White,Bachelor's,15,Sales,50,0,1,0.83
+494,60,Male,White,Bachelor's,7,Sales,67,1,0,0.53
+495,24,Male,Black,High School,1,Sales,88,1,1,0.71
+496,60,Male,Black,Bachelor's,17,Marketing,79,0,1,0.88
+497,26,Male,Asian,Master's,17,Engineering,68,1,0,0.67
+498,35,Male,White,Bachelor's,3,Sales,96,0,1,0.86
+499,40,Female,Asian,Bachelor's,10,Finance,83,0,0,0.8
+500,53,Male,Black,Bachelor's,5,Sales,64,0,1,0.52
